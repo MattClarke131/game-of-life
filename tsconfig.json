@@ -1,10 +1,12 @@
 {
   "compilerOptions": {
+    "target": "es6",
+    "outDir": "./dist",
+
     "strict": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "noUnusedLocals": true,
-    "outDir": "./dist",
     "allowJs": true,
     "moduleResolution": "node",
     "esModuleInterop": true,
