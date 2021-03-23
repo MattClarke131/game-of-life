@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "es6",
-    "outDir": "./docs/js",
+    "outDir": "./dist/js",
 
     "strict": true,
     "noImplicitReturns": true,
