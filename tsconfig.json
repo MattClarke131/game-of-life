@@ -1,13 +1,14 @@
 {
   "compilerOptions": {
     "target": "es6",
-    "outDir": "./dist",
+    "outDir": "./docs/js",
 
     "strict": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "noUnusedLocals": true,
     "allowJs": true,
+    "jsx": "react",
     "moduleResolution": "node",
     "esModuleInterop": true,
     "resolveJsonModule": true
